@@ -57,3 +57,8 @@ img {
     width: 295px;
     height: 180px;
 }
+
+.logo {
+    height: 50px;
+    width: auto;
+}
